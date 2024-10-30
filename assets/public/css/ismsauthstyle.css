@@ -1,0 +1,49 @@
+.isms-bg-success {
+    background-color: #28a745!important;
+    color:#fff;
+}
+
+.isms-bg-danger {
+    background-color: #dc3545!important;
+    color:#fff;
+}
+
+.isms-auth-response-holder {
+    padding: 10px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+#isms_reg_otp {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.isms-table-otp {
+    overflow: unset !important
+}
+
+.isms-table-otp, .isms-table-otp td  {
+    border: none !important;
+}
+
+#isms_reg_mobile_phone,#isms_reg_billing_phone,#billing_phone {
+    padding-left: 98px !important
+}
+
+#country-listbox {
+    background: #fff !important;
+}
+
+#isms-resend-otp, #isms-verify-otp {
+    background: #007cba;
+    border-color: #007cba;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    font-weight: normal;
+    margin-right: 10px;
+    padding: 8px;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}

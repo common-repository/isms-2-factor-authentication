@@ -1,0 +1,85 @@
+.isms-divider {
+    border-bottom: 1px solid #c4c4c4;
+    padding: 5px;
+}
+
+.toplevel_page_isms-setting input#phone {
+    position: relative;
+    top: 2px;
+}
+
+table#dt-message-sent td {
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+}
+
+table#dt-message-sent {
+    padding-top: 10px;
+}
+
+table.dataTable thead th, table.dataTable thead td,table.dataTable.no-footer{
+    border-bottom: none !important;
+    text-align: left  !important;
+}
+
+table.dataTable thead .sorting, table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc, table.dataTable thead .sorting_asc_disabled, table.dataTable thead .sorting_desc_disabled {
+    background-position: center left;
+}
+
+#message-sent .isms-divider {
+    margin-bottom: 1rem;
+}
+
+.isms-divider.process-list {
+    margin-bottom: 25px;
+}
+
+#manual-send-form textarea {
+    width: 100%;
+}
+
+.isms-hidden {
+    display: none;
+}
+
+.isms-bg-success {
+    background-color: #28a745!important
+}
+
+.isms-bg-danger {
+    background-color: #dc3545!important;
+}
+
+.isms-response-holder {
+    padding: 10px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+button#send-sms {
+    margin-top: 10px;
+}
+
+#isms .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+#isms .table td, #isms .table th {
+    padding: .5rem;
+}
+
+#isms .table-bordered td, #isms .table-bordered th {
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+#ismsauthphone {
+    padding-left: 83px !important
+}
+
+#mobile-field-selector + tr {
+    display:none;
+}
